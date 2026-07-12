@@ -39,6 +39,7 @@ Tech lead and Proyect Manager
 - Google Cloud Platform (GCP)
 - Microsoft Azure
 - Red Hat OpenShift
+- Amazon Web Services (AWS)
 - Arquitectura basada en Microservicios
   - Spring Boot
   - Vue.js
